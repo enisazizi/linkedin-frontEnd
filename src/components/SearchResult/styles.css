@@ -1,0 +1,16 @@
+.results{
+    z-index: 111;
+    margin-left: 0;
+    margin-top: 52px;
+    position: absolute;
+    width: 50%;
+    
+}
+.navCss{
+   margin:0;
+   padding: 0;
+}
+a.navCss.nav-link{
+    padding: 0;
+    color: black;
+}

@@ -1,0 +1,41 @@
+.feedcardAvatar {
+  width: 48px;
+  height: 48px;
+}
+.feedcardName {
+  font-size: 14px;
+}
+.feedcardInfo {
+  font-size: 12px;
+  color: grey;
+}
+.feedcardInfo,
+.feedcardName {
+  font-weight: bold;
+}
+.feedcardImg {
+  border-radius: 0 !important;
+}
+.feedCard {
+  border: 1px solid #dbdad7 !important;
+  border-top-left-radius: 0.8rem !important;
+  border-top-right-radius: 0.8rem !important;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.05) !important;
+}
+.cardFooter {
+  border-bottom-left-radius: 0.8rem !important;
+  border-bottom-right-radius: 0.8rem !important;
+  padding: 4px 1rem !important;
+  margin: 0 !important;
+}
+.commentDiv {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  /* padding: 4px 1rem; */
+}
+.commentAvatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin: 0 1rem;
+}

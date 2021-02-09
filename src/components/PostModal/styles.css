@@ -1,0 +1,28 @@
+.HashButton {
+  block-size: max-content;
+  border: 0 !important;
+}
+.postButton {
+  border-radius: 30px !important;
+  text-align: left !important;
+  width: 100%;
+  background-color: white;
+  align-items: center;
+  display: flex;
+}
+.postButton > p {
+  font-size: 1rem;
+  align-items: center;
+  margin-bottom: 0;
+  margin-left: 4px;
+}
+.postImage {
+  background-color: white;
+}
+.postBtnText {
+  font-size: 1rem;
+  margin: 0;
+  color: grey;
+  font-weight: 600;
+  margin-left: 4px;
+}

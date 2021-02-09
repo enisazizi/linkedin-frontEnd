@@ -1,0 +1,16 @@
+.postByAvatar {
+  width: 48px;
+  height: 48px;
+  margin-left: 1rem;
+}
+.viewByBtn {
+  margin-left: 4px;
+  padding: 2px 24px !important;
+  font-size: 14px !important;
+}
+.viewByAnyoneEarth {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: 4px;
+}

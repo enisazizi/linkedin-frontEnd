@@ -1,0 +1,28 @@
+.homeSideAvatar {
+  border-radius: 50%;
+  border: 4px solid white;
+  object-fit: cover;
+  width: 80px;
+  height: 80px;
+  left: 0;
+  top: 0;
+  transform: translate(80%, -80%);
+  position: absolute;
+}
+
+@media screen and (max-width: 1200px) {
+  .homeSideAvatar {
+    transform: translate(50%, -80%);
+  }
+}
+.logoutbtn {
+  font-size: 14px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: transparent;
+  border: none;
+  transition: all 1s ease;
+}
+.logoutbtn:hover {
+  background-color: rgba(141, 35, 35, 0.377);
+}
